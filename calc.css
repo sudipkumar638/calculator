@@ -1,0 +1,48 @@
+.innerdiv{
+    height: 69vh;
+    width: 39vw;
+    position: relative;
+    top: 110px;
+    left: 621px;
+    background-color: yellow;
+    border-radius:50px;
+}
+
+#txt1{
+    height: 72px;
+    width: 500px;
+    font-size: 40px;
+    border-radius: 30px;
+    outline: none;
+    border:none;
+}
+
+
+.textbox{
+    text-align: center;
+    position: relative;
+    top:69px;
+   
+}
+
+.button{
+    position: relative;
+    top:79px;
+    left:116px;
+    height: 297px;
+    text-align: center;
+    display: inline-block;
+}
+
+.tabledat tr td button{
+   height:83px;
+   width:124px;
+   font-size: 40px;
+   font-family: cursive;
+   border-radius: 30px;
+   border-color: yellow;
+  
+}
+body{
+    background-color: rgba(60, 71, 69, 0.979);
+}
